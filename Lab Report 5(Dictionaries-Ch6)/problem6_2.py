@@ -5,5 +5,4 @@ favourite_numbers={
    'Balveer':8,
    'Nobita':15,
 }
-for person, numbers in favourite_numbers.items():
-    print(f"{person}'s favourite number is {numbers}.")
+print(favourite_numbers)
